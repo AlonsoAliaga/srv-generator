@@ -1,0 +1,62 @@
+{
+    "online-viewers": [
+        "🟢 {VIEWERS} persone online stanno configurando il loro nuovo server di Minecraft!",
+        "🟢 {VIEWERS} persone online stanno creando il nuovo Hypixel!",
+        "🟢 {VIEWERS} persone online stanno aprendo i loro server al mondo!"
+    ],
+    "use-chrome": "Usa Google Chrome o Opera per un'esperienza migliore. Edge risulta non compatibile!",
+    "site-options": "Opzioni del sito:",
+    "dark-mode": "Modalità scura 👁️‍🗨️",
+    "more-features": "Plus de fonctionnalités? 🧪",
+    "auto-button": "🤖 AUTO",
+    "how-different": "In cosa è diverso rispetto ad altri generatori?",
+    "how-different-answer": "[HTML]Beh, ce ne potrebbero essere altri online. Ma questo è il più facile da usare e ha <b class=\"rainbow\">molte</b> opzioni 👀",
+    "cool-ideas": "[HTML]⚠️ Se hai idee interessanti, suggeriscile nel nostro <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">server Discord ufficiale</a>.",
+    "if-tool-useful": "[HTML]Se hai trovato utile questo strumento, considera di <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\">fare una donazione</a> per supportare il nostro lavoro. Lo apprezziamo molto!",
+    "successfully-copied": "[HTML]<b>💎 Copiato con successo! 💎</b><br><span style=\"font-size: small;\">Grazie per aver usato il nostro strumento!</span>",
+    
+
+    "start-creating": "Configura il tuo server! 🎮",
+    "select-one-version": "[HTML]<b>❌ Seleziona almeno una versione ❌</b>",
+    "main-domain-to-connect": "Dominio principale a cui connettersi:",
+    "java-subdomain-to-connect": "Sottodominio Java a cui connettersi:",
+    "bedrock-subdomain-to-connect": "Sottodominio Bedrock a cui connettersi:",
+    "numerical-ip": "IP numerico del server:",
+    "java-port": "Porta Java:",
+    "bedrock-port": "Porta Bedrock:",
+    "general-section": "Configurazione generale",
+    "java-section": "Configurazione Java",
+    "bedrock-section": "Configurazione Bedrock",
+    "click-to-copy": "🖱️ Clicca sulle caselle qui sopra per copiare il contenuto!",
+
+    "a-record-type": "Tipo:",
+    "a-record-name": "Nome:",
+    "a-record-ipv4": "Indirizzo IPv4:",
+    "a-record-proxy": "Stato proxy:",
+    "a-record-ttl": "TTL:",
+
+    "srv-record-type": "Tipo:",
+    "srv-record-name": "Nome:",
+    "srv-record-priority": "Priorità:",
+    "srv-record-weight": "Peso:",
+    "srv-record-ttl": "TTL:",
+    "srv-record-port": "Porta:",
+    "srv-record-target": "Destinazione:",
+
+    "java-instruction": "[HTML]I giocatori Java possono ora unirsi usando&nbsp;<span style=\"color: yellow\">{IP}</span>!",
+
+    "bedrock-a-record-type": "Tipo:",
+    "bedrock-a-record-name": "Nome:",
+    "bedrock-a-record-ipv4": "Indirizzo IPv4:",
+    "bedrock-a-record-proxy": "Stato proxy:",
+    "bedrock-a-record-ttl": "TTL:",
+    
+    "bedrock-instruction": "[HTML]I giocatori Bedrock possono ora unirsi usando&nbsp;<span style=\"color: yellow\">{IP}</span>&nbsp;e la porta&nbsp;<span style=\"color: yellow\">{PORT}</span>!",
+
+    "if-error-report": "[HTML]⚠️ Se trovi un errore nel generatore, segnalalo nel nostro <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">server Discord</a>!",
+    "more-tools-for-you": "Altri strumenti per te:",
+    "looking-pixelart": "Cerchi una pixelart come questa? 💎",
+    "looking-render": "Cerchi un render come questo? 💎",
+    "looking-animation": "Cerchi un'animazione come questa? 💎",
+    "footer": "[HTML]❤️ Grazie a <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\">AlonsoAliaga</a> per il suo impegno nello sviluppo di questo strumento."
+}

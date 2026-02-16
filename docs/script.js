@@ -277,7 +277,7 @@ function loadPreset(key,data) {
 
 }
 function processAds() {
-
+  
 }
 /*
 for(let id of ["ip-to-connect","numerical-ip","server-port"]) {
